@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269662949777",
+    "project_id": "tbapp-b8133",
+    "storage_bucket": "tbapp-b8133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269662949777:android:51fe16659fc0ddbea4ca30",
+        "android_client_info": {
+          "package_name": "com.tbapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsuDDWM1z7Eg9-l6PjCWm0ZYUKXW5CMKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

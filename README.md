@@ -1,16 +1,6 @@
 # tuberculosisapp
 
-A new Flutter project.
+This project is a tuberculosis app built in flutter that uses a model built using tensorflow to detect whether a person has tuberculosis or not based on pictures of chest x-rays taken in the app or from pictures in the gallery.
 
-## Getting Started
+The results are then stored in firebase
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
